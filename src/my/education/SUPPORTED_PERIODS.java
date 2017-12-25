@@ -1,4 +1,4 @@
-package ru.sbt.education;
+package my.education;
 
 public enum SUPPORTED_PERIODS {
     MORNING("05:00:00", "10:59:59"),

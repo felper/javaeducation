@@ -1,7 +1,4 @@
-package ru.sbt.education;
-
-import java.text.ParseException;
-import java.time.LocalTime;
+package my.education;
 
 public class Main {
     public static void main(String[] args) {

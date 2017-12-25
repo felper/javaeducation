@@ -1,4 +1,4 @@
-package ru.sbt.education;
+package my.education;
 
 import java.time.LocalTime;
 

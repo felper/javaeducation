@@ -1,6 +1,6 @@
-package ru.sbt.education;
+package my.education;
 
-import static ru.sbt.education.TimeUtil.*;
+import static my.education.TimeUtil.*;
 
 public class HelloGiverRUS implements IHelloGiver {
 

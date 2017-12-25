@@ -1,4 +1,4 @@
-package ru.sbt.education;
+package my.education;
 
 public interface IHelloGiver {
     public String sayHello();

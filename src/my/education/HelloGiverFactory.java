@@ -1,4 +1,4 @@
-package ru.sbt.education;
+package my.education;
 
 public class HelloGiverFactory {
     public static IHelloGiver createHelloGiverInstace (SUPPORTED_LANGUAGES lang) {
